@@ -1,6 +1,9 @@
 # congrego-JobScraper
 Built an hourly job dashboard to assist individuals that lost their jobs due to the COVID-19 pandemic.
 
+## Motivation
+Canadians have lost over 2 millions jobs due to COVID-19 according to [CBC](https://www.cbc.ca/news/business/canada-jobs-april-1.5561001) and Quebec's [unemployment rate](https://www.cbc.ca/news/canada/montreal/quebec-record-job-losses-april-1.5561165) has rose to 17%(the highest ever recorded). I hope that this dashboard/platform will help individuals get back on their feet with hourly wage jobs that have been retrieved by 2 major job search sites in Canada. 
+
 ## Installation
 ```bash
 * pip install bs4
@@ -24,3 +27,7 @@ I have incoporated the external Python libraries to the Lambda as a layer. You c
 4. Go back to Lambda function designer
 5. Add Layer, choose the option of addition as AWS layer and indicate the layer you created with dependencies
 6. Save and Run a test to validate the successful addition of libraries
+
+## Front End Design (hosted on S3)
+
+Further design code by HTML5UP can be found on this [repo](https://github.com/ManethKulatunge/congrego)
