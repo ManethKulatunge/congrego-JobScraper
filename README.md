@@ -7,3 +7,5 @@ Built an hourly job dashboard to assist individuals that lost their jobs due to 
 * pip install requests
 * pip install json
 ```
+## AWS Architecture
+![GitHub Logo](/images/architure-draft1.jpeg)
