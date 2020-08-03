@@ -29,5 +29,12 @@ I have incoporated the external Python libraries to the Lambda as a layer. You c
 6. Save and Run a test to validate the successful addition of libraries
 
 ## Front End Design (hosted on S3)
+![](images/table.png )
 
 Further design code by HTML5UP can be found on this [repo](https://github.com/ManethKulatunge/congrego)
+
+## Future Improvements
+* More job search sites incorporated in the form of Write Lambdas
+* A mobile responsive front end
+* Addition of a Job Loss Graph
+* Better UI/UX for the job listings (filters etc)
