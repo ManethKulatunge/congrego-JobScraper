@@ -8,4 +8,4 @@ Built an hourly job dashboard to assist individuals that lost their jobs due to 
 * pip install json
 ```
 ## AWS Architecture
-![Alt Text](/images/architure-draft1.jpeg)
+![](images/architecture-draft1.jpeg)
